@@ -1,0 +1,10 @@
+# Step size for the sliding window used for extracting candidates (Default: 1)
+#stepSize=1
+
+# Size of leaf nodes. If number of instances in a node is less than provided
+# value, the algorithm stops further processing down that node and assigns the
+# majority class from the instances as the node label (Default: 1)
+#leafSize=10
+
+# Maximum depth for growing trees (Default: fully grown)
+#treeDepth=1
