@@ -31,6 +31,7 @@ step 2. Specify dataset path in edu.bjtu.launcher.LaunchRPSF and run it as main 
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```
+Please cite our paper if this code is useful to you.
 
 ## Acknowledgement
 This implementation is based on paper: Ensembles of Randomized Time Series Shapelets Provide Improved Accuracy while Reducing Computational Costs, Raza et al. 2017. Thanks for their strong baseline.
